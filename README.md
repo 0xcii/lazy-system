@@ -150,4 +150,20 @@ MIT — Free to use, modify, and share.
 
 ---
 
+---
+
+## 中文版简介
+
+**懒人执行系统** — 为「想太多做太少」的人设计。
+
+核心思想：**任何需要你主动启动的系统，对你都无效。** 因为「启动」本身就需要意志力——而你的意志力在开始之前就被内耗消耗光了。
+
+解法很简单：Agent作为外部锚点，每晚22:00主动问一句「今天做了吗？」。
+你不需要记住启动。Agent会来。你只需要回答「做了」或「没做」。
+
+> 太阴忌火，自燃自熄。天机为锚，不启自启。
+> 日拱一卒，不期速成。但问今日，不问万里。
+
+---
+
 *Made by people who think too much and do too little. For people who think too much and do too little.*
