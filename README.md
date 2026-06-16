@@ -236,6 +236,17 @@ hermes memory add --target memory --content 'lazy-system: action="Your MVA", str
 
 ---
 
+## 🌐 找到我们 / Find Us
+
+| Platform | Link | What |
+|----------|------|------|
+| 🐦 **X (Twitter)** | [@AntCaveClub](https://x.com/AntCaveClub) | Daily game theory & Alpha mindset |
+| ▶️ **YouTube** | [@0xcii](https://youtube.com/@0xcii) | Deep strategy videos & battle replays |
+| 🤖 **Telegram Bot** | [@yongzhuan_bot](https://t.me/yongzhuan_bot) | QiuQiu assistant bot, call anytime |
+| 📦 **GitHub** | [lazy-system](https://github.com/0xcii/lazy-system) | Source code & feedback |
+
+---
+
 ## License
 
 MIT — Free to use, modify, and share.
